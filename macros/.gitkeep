@@ -1,1 +1,2 @@
-
+# This file ensures the macros directory is created and tracked by git
+# Macro files (.json) created by the Macro Maker will be stored here
